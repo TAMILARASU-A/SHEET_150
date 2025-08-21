@@ -9,7 +9,7 @@ for s in string:
   if s.isalpha():
     if s in vowels:
         vow.append(s)
-        v_count+=1
+        v_count+=1  
     else:
         cons.append(s)
         c_count+=1
