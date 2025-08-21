@@ -1,7 +1,7 @@
 string=input("Enter a string:")
 #string=string.lower()
 vow=[]
-cons=[]
+cons=[] 
 vowels="aeiouAEIOU"
 v_count=0
 c_count=0
